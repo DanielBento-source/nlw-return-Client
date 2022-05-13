@@ -21,7 +21,7 @@ O projeto "Feedget" é um widget feito para capturar feedbacks dos usuarios, pod
 
 - ``Motor: NodeJs``
 - ``Framework: Express(Backend) + ReactJs(Frontend)``
-- ``Linguagem de programação: JavaScript + TypeScript``
+- ``Linguagem de programação: JavaScript + TypeScript + Tailwind(css)``
 - ``Banco de dados: PostgreSQL``
 - ``ORM: Prisma``
 - ``Cloud: Railway(Backend) + PostgreSQL, Vercel (Frontend)``
